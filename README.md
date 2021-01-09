@@ -22,3 +22,10 @@ The fun idea here is providing kids with "fun" features that actually protect th
 -- The problem: transferring videos online is data-intensive. In 2018, online video traffic was responsible for more than 300 million tons of CO2, equivalent to what a country the size of Spain releases in a year — for all sectors combined. The higher a video's resolution, the more data that's required.
 - Avoids identity fraud by video conference hackers
 - Has a vintage vibe like the 1990s internet videoconferencing client, CU-SeeMe!
+
+# Tech Stack
+- OpenCV
+- Numpy
+- Python
+- Javascript, HTML, CSS
+- FireBase (?)
