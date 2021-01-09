@@ -17,3 +17,5 @@ The fun idea here is providing kids with "fun" features that actually protect th
 
 # Benefits
 - Children's Internet Protection Act (CIPA) - billion dollar bill acts implemented by the government
+- Decreases Energy Consumption: According to a projection by IT giant Cisco, by 2022 around 60% of the world's population will be online, with video making up more than 80 percent of all internet traffic. 
+-- The problem: transferring videos online is data-intensive. In 2018, online video traffic was responsible for more than 300 million tons of CO2, equivalent to what a country the size of Spain releases in a year — for all sectors combined. The higher a video's resolution, the more data that's required.
