@@ -1,3 +1,5 @@
+![alt text](https://www.pngarts.com/files/5/Teenage-Mutant-Ninja-Turtles-Free-PNG-Image.png)
+
 # What is NinjaTurtles?
 protecting children's video identities online in a fun way! :rainbow:
 
