@@ -1,14 +1,14 @@
-# NinjaTurtles
+# What is NinjaTurtles?
 protecting children's video identities online in a fun way :rainbow:
 
 
-# BASIC FEATURES
+# Basic Features
 - anonymize the child's video using video filters (on video applications) in order to protect their identity
 - generate random username for child
 
-# EXTRA FEATURES
+# Extra Features
 
-## ETHOS
+## Ethos
 The fun idea here is providing kids with "fun" features that actually protect them in cyber space but they don't know it, they just see fun options to use while being on the internet (ie. in zoom class) :rainbow: 
 
 - fun unique filters available for children (similar to the fun camera roll app in apple products)
