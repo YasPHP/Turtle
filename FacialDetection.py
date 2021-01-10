@@ -19,7 +19,6 @@ face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
     
 # calls the video camera
 cap = cv2.VideoCapture(0)
-
 chosen_face = 0
 
 # infinite loop - keeps camera on
@@ -33,10 +32,11 @@ while(1):
 
     for (x,y,w,h) in faces:
         
-        cv2.rectangle(img,(x,y),(x+w,y+h),(0,255,0),3)
+        #cv2.rectangle(img,(x,y),(x+w,y+h),(0,255,0),3)
         cv2.putText(img,"Face Detected",(x,y),1,1,(0,255,0),2)
         
-        img[y:y+overlay.shape[0], x:x+overlay.shape[1]] = overlay
+        try: img[y:y+overlay.shape[0], x:x+overlay.shape[1]] = overlay
+        except: continue
         
 
     cv2.imshow('Face Cover',img)
