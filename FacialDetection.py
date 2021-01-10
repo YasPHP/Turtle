@@ -5,17 +5,13 @@
 
 import numpy as np
 import cv2
-from cv2 import *
 
 overlay = cv2.imread("Leo-Clear-temp.png")
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
     
-    
-    
 # calls the video camera
 cap = cv2.VideoCapture(0)
 
-print(np.shape(overlay))
 
 # infinite loop - keeps camera on
 while(1):
@@ -30,15 +26,10 @@ while(1):
         cv2.rectangle(img,(x,y),(x+w,y+h),(0,255,0),3)
         cv2.putText(img,"Face Detected",(x,y),1,1,(0,255,0),2)
         
-        #img[x:y,(x+w):(y+h)] = 
         img[y:y+overlay.shape[0], x:x+overlay.shape[1]] = overlay
         
-        #img[x:y+overlay.shape[0],(x+w):(y+h)+overlay.shape[1]] = overlay
-        #img[x:y,(x+w):(y+h)] =
-        
-        
 
-    cv2.imshow('Face Detector',img)
+    cv2.imshow('Face Cover',img)
     
     
     
