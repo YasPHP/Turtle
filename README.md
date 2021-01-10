@@ -7,7 +7,7 @@ NinjaTurtles is a computer vision tool build with the goal of protecting childre
 The fun idea here is providing kids with "fun" features that actually protect them in cyber space but they don't know it, they just see fun options to use while being on the internet (i.e. in zoom class) 
 
 # Basic Features
-- Anonymizes the child's facial identity using video filters (on video applications) in order to protect their identity
+Currently, it anonymizes the child's facial identity using video filters (on video applications) in order to protect their identity
 
 # Extra Features
 - Face detection tracker (to check if young child is watching teacher)
