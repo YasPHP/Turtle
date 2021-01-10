@@ -1,13 +1,13 @@
 ![alt text](https://www.pngarts.com/files/5/Teenage-Mutant-Ninja-Turtles-Free-PNG-Image.png)
 
 # What is NinjaTurtles?
-protecting children's video identities online in a fun way! :rainbow:
+NinjaTurtles is a computer vision tool build with the goal of protecting children's video identities online in a fun way! :rainbow:
 
 # Ethos
 The fun idea here is providing kids with "fun" features that actually protect them in cyber space but they don't know it, they just see fun options to use while being on the internet (ie. in zoom class) 
 
 # Basic Features
-- anonymize the child's video using video filters (on video applications) in order to protect their identity
+- Anonymizes the child's facial identity using video filters (on video applications) in order to protect their identity
 - generate random username for child
 
 # Extra Features
