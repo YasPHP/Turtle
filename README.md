@@ -8,15 +8,10 @@ The fun idea here is providing kids with "fun" features that actually protect th
 
 # Basic Features
 - Anonymizes the child's facial identity using video filters (on video applications) in order to protect their identity
-- generate random username for child
 
 # Extra Features
-
-- face detection tracker (to check if young child is watching teacher)
-- fun unique filters available for children (similar to the fun camera roll app in apple products)
-- Creating Snapchat-like Filters (maybe ninja turtles themed?)
-- child picks favourite animal (or any topic) and the randomly generated username is based on that thing (conceals their identity in a fun way)
-- can add an easy emoji-child name labelling chart for the teacher's end (works for scaling classroom size)
+- Face detection tracker (to check if young child is watching teacher)
+- Creating interchangeable Ninja Turtle themed Snapchat-like Filters to conceal identity
 
 # Benefits
 - Children's Internet Protection Act (CIPA) - billion dollar bill acts implemented by the government
@@ -29,6 +24,4 @@ The fun idea here is providing kids with "fun" features that actually protect th
 - OpenCV
 - Numpy
 - Python
-- Javascript, HTML, CSS
-- React
 - Anaconda
