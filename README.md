@@ -1,7 +1,5 @@
 ![alt text](https://cdn.discordapp.com/attachments/797540186170458172/798261626594787440/turtle.png)
 # "A new kind of mask"
-
-# What is Türtle?
 A computer vision tool that protects children's video identities during online video conferencing in a fun way!
 
 # Demo
