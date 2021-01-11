@@ -1,4 +1,4 @@
-![alt text](https://cdn.discordapp.com/attachments/796881280015925249/797836390401572894/Turtle_Logo.PNG)
+![alt text](https://cdn.discordapp.com/attachments/797540186170458172/798261626594787440/turtle.png)
 
 # What is NinjaTurtles?
 NinjaTurtles is a computer vision tool build with the goal of protecting children's video identities online in a fun way! :rainbow:
