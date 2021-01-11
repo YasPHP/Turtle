@@ -8,7 +8,7 @@ NinjaTurtles is a computer vision tool build with the goal of protecting childre
 The fun idea here is providing kids with "fun" features that actually protect them in cyber space but they don't know it, they just see fun options to use while being on the internet (i.e. in zoom class) 
 
 # Demo
-![alt text](https://cdn.discordapp.com/attachments/797540186170458172/798261694886838292/pic.png)
+![alt text](https://discord.com/channels/796881278842306581/797540186170458172/798261695747063828/pic.png)
 
 DevPost Submission + Video: https://devpost.com/software/turtle-3x8eyn
 
