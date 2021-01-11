@@ -1,10 +1,16 @@
 ![alt text](https://cdn.discordapp.com/attachments/797540186170458172/798261626594787440/turtle.png)
+# "A new kind of mask"
 
 # What is Türtle?
 NinjaTurtles is a computer vision tool build with the goal of protecting children's video identities online in a fun way! :rainbow:
 
 # Ethos
 The fun idea here is providing kids with "fun" features that actually protect them in cyber space but they don't know it, they just see fun options to use while being on the internet (i.e. in zoom class) 
+
+# Demo
+![alt text](https://cdn.discordapp.com/attachments/797540186170458172/798261694886838292/pic.png)
+
+DevPost Submission + Video: https://devpost.com/software/turtle-3x8eyn
 
 # Basic Features
 Currently, it anonymizes the child's facial identity using video filters (on video applications) in order to protect their identity
