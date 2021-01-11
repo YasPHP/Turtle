@@ -3,7 +3,7 @@
 A computer vision tool that protects children's video identities during online video conferencing in a fun way!
 
 # Demo
-![alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/329/878/datas/original.PNG)
+![alt text](https://cdn.discordapp.com/attachments/797540186170458172/798284337127751771/turtlegify.gif)
 
 DevPost Submission + Video: https://devpost.com/software/turtle-3x8eyn
 
