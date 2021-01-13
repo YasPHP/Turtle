@@ -8,9 +8,12 @@ import cv2
 from os import listdir
 from os.path import isfile, join
 
+# directory path of face filter images
 mypath='./NTFaces'
 onlyfiles = [ f for f in listdir(mypath) if isfile(join(mypath,f)) ]
 face_list = np.empty(len(onlyfiles), dtype=object)
+
+# loops through possible face filter images in the directory outlined in the path
 for n in range(0, len(onlyfiles)):
   face_list[n] = cv2.imread( join(mypath,onlyfiles[n]) )
 
@@ -25,6 +28,7 @@ chosen_face = 0
 while(1):
     
 
+    # face tracker image overlay
     overlay = face_list[chosen_face]
     ret, img = cap.read()
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
@@ -41,6 +45,7 @@ while(1):
 
     cv2.imshow('Face Cover',img)
     
+    # spacebar command to alternate face filters
     k = cv2.waitKey(30) & 0xff
     if k == 27:
         break
@@ -51,6 +56,6 @@ while(1):
             chosen_face += 1
         
     
-
+# closes all windows, including webcam capture
 cv2.destroyAllWindows()
 cap.release()
