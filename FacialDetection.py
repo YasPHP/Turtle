@@ -17,7 +17,7 @@ face_list = np.empty(len(onlyfiles), dtype=object)
 for n in range(0, len(onlyfiles)):
   face_list[n] = cv2.imread( join(mypath,onlyfiles[n]) )
 
-
+# Haar Cascade classifier is an effective object detection approach
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
     
 # calls the video camera
@@ -30,10 +30,17 @@ while(1):
 
     # face tracker image overlay
     overlay = face_list[chosen_face]
+    
+    # the captured media is read
     ret, img = cap.read()
+    
+    # colour converted from red, green, blue to gray
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    
+    # 
     faces = face_cascade.detectMultiScale(gray, 1.3, 5)
 
+    # face tracking loop
     for (x,y,w,h) in faces:
         
         cv2.rectangle(img,(x,y),(x+w,y+h),(0,255,0),3)
