@@ -5,7 +5,7 @@ A computer vision tool that protects children's video identities during online v
 # Demo
 ![alt text](https://cdn.discordapp.com/attachments/797540186170458172/798284337127751771/turtlegify.gif)
 
-DevPost Submission + Video: https://devpost.com/software/turtle-3x8eyn
+[DevPost Submission + Video](https://devpost.com/software/turtle-3x8eyn)
 
 # Ethos
 The idea here is providing kids with "fun" features that protect them from identity fraud in video cyberspace but they don't know it, they just see fun options to use while being on the internet (i.e. in zoom class).
