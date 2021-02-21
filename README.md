@@ -11,7 +11,7 @@ A computer vision tool that protects children's video identities during online v
 The idea here is providing kids with "fun" features that protect them from identity fraud in video cyberspace but they don't know it, they just see fun options to use while being on the internet (i.e. in zoom class).
 
 # Basic Features
-Currently, it anonymizes the child's facial identity using video filters (on video applications) in order to protect their identity
+Currently, it anonymizes the child's facial identity using video filters (on video applications) in order to protect their identity using the Viola-Jones face tracking algorithm.
 
 # Extra Features
 - Face detection tracker (to check if young child is watching teacher)
