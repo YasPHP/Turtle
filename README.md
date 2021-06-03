@@ -29,3 +29,7 @@ Currently, it anonymizes the child's facial identity using video filters (on vid
 - Numpy
 - Python
 - Anaconda
+
+# Hackathons Completed
+- Hack@Brown
+- SheHacks
